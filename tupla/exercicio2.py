@@ -1,0 +1,2 @@
+tupla_vazia = ()
+
